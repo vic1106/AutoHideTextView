@@ -1,0 +1,2 @@
+# AutoHideTextView
+AutoHideTextView for android
